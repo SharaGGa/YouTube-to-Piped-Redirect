@@ -1,5 +1,9 @@
 # YouTube to Piped Redirect
 
+[Прочитать на Русском](https://github.com/SharaGGa/YouTube-to-Piped-Redirect/blob/main/README.md)
+
+[Read on English](https://github.com/SharaGGa/YouTube-to-Piped-Redirect/blob/main/EN-README.md)
+
 Этот скрипт Tampermonkey автоматически перенаправляет ссылки YouTube на Piped, альтернативный фронтенд для YouTube.
 
 ## Установка
