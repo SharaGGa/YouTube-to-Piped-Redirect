@@ -19,4 +19,4 @@ This script automatically redirects YouTube links to their Piped equivalents. It
 
 ## What will change:
 
-After installation, the script will automatically redirect you to [Piped.video](piped.video) when visiting YouTube pages, and also replace YouTube's embedded player on any website with the Piped embedded player.
+After installation, the script will automatically redirect you to [Piped.video](https://piped.video) when visiting YouTube pages, and also replace YouTube's embedded player on any website with the Piped embedded player.
